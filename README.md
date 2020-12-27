@@ -2,7 +2,7 @@
 
 This is the source code for buttons in flutter series.
 
-![alt text](https://drive.google.com/file/d/1w3E0zjjfbwnK8J8cOBMFDRbrCOoDH8vy/view?usp=sharing)
+![Button images](https://drive.google.com/file/d/1w3E0zjjfbwnK8J8cOBMFDRbrCOoDH8vy/view?usp=sharing)
 
 The video links
 
